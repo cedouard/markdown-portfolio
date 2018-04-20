@@ -1,6 +1,6 @@
 * Cotot
 * Meow
 * Woof
-** Wif
-** Wool
-** Whaaaa :smile:
+  * Wif
+  * Wool
+  * Whaaaa :smile:
